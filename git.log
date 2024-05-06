@@ -1,0 +1,27 @@
+commit 3ab794b5ec04e1ff3de96fe567689510d3cdce89
+Author: mnbvcxzm12 <148426200+mnbvcxzm12@users.noreply.github.com>
+Date:   Mon May 6 15:59:24 2024 +0900
+
+    Update tetris.js
+
+commit 871d2b3ef4ad5849b47a08205572aeb0d5d3df2f
+Author: mnbvcxzm12 <148426200+mnbvcxzm12@users.noreply.github.com>
+Date:   Mon May 6 15:44:39 2024 +0900
+
+    change dropspeed
+    
+    tick 400 -> 1000
+
+commit 0bea89b41f1ffed07705897d1ce1e6b0429ddde4
+Author: mnbvcxzm12 <148426200+mnbvcxzm12@users.noreply.github.com>
+Date:   Mon May 6 15:38:58 2024 +0900
+
+    change color of mino
+    
+    green -> lime
+
+commit c712ac348b4ccc94af64c572473eff9ba93d382a
+Author: mnbvcxzm12 <148426200+mnbvcxzm12@users.noreply.github.com>
+Date:   Mon May 6 15:18:05 2024 +0900
+
+    canvas-tetris
